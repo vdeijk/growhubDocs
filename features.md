@@ -69,7 +69,3 @@ Growhub helps you make data-driven decisions with powerful data insights. The pl
 ## Conclusion
 
 These key features are just the beginning of what Growhub can do for your farm. As you get more familiar with the platform, you’ll discover even more ways to optimize your farm management and ensure a successful harvest.
-
----
-
-How does that look for the **Key Features** section? Would you like to add any more features, or should we move on to the next chapter?
