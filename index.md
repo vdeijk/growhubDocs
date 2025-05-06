@@ -4,13 +4,12 @@ Welcome to the Growhub documentation! This guide will walk you through everythin
 
 ## Table of Contents
 
-1. [Introduction](1-introduction.md)
-2. [Getting Started](2-getting-started.md)
-3. [Features](3-features.md)
-   - [Core Features](3-core-features.md)
-   - [Advanced Features](4-advanced-features.md)
-4. [Troubleshooting](5-troubleshooting.md)
-5. [Additional Resources](7-additional-resources.md)
+1. [Introduction](introduction.md)
+3. [Features](features.md)
+2. [How To Use Growhub](how-to-use-growhub.md)
+4. [Tips And Best Practices](tips-best-practices.md)
+4. [Troubleshooting and FAQ](troubleshooting-faqs.md)
+5. [Additional Resources](additional-resources.md)
 
 ---
 
